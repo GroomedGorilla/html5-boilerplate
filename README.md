@@ -20,13 +20,14 @@ way that you want.
 
 Choose one of the following options:
 
-1. Download the latest stable release from
-   [html5boilerplate.com](https://html5boilerplate.com/) or create a
-   custom build using [Initializr](http://www.initializr.com/).
-2. Clone the git repo — `git clone
-   https://github.com/h5bp/html5-boilerplate.git` - and checkout the
-   [tagged release](https://github.com/h5bp/html5-boilerplate/releases)
-   you'd like to use.
+- Download the latest stable release from
+  [html5boilerplate.com](https://html5boilerplate.com/).
+- Clone the git repo — `git clone
+  https://github.com/h5bp/html5-boilerplate.git` - and checkout the
+  [tagged release](https://github.com/h5bp/html5-boilerplate/releases)
+  you'd like to use.
+- Install with [npm](https://www.npmjs.com/): `npm install html5-boilerplate` and pull in what you need from the resulting `node_modules/html5-boilerplate/dist`
+- Install with [yarn](https://yarnpkg.com/): `yarn add html5-boilerplate`
 
 
 ## Features
@@ -56,16 +57,15 @@ Choose one of the following options:
 * Chrome *(latest 2)*
 * Edge *(latest 2)*
 * Firefox *(latest 2)*
-* Internet Explorer 9+
+* Internet Explorer 11
 * Opera *(latest 2)*
 * Safari *(latest 2)*
 
 *This doesn't mean that HTML5 Boilerplate cannot be used in older browsers,
 just that we'll ensure compatibility with the ones mentioned above.*
 
-If you need legacy browser support you
-can use [HTML5 Boilerplate v4](https://github.com/h5bp/html5-boilerplate/tree/v4) (IE 6+, Firefox 3.6+, Safari 4+),
-or [HTML5 Boilerplate v5](https://github.com/h5bp/html5-boilerplate/tree/v5.0.0) (IE8+). They are no longer actively developed.
+If you need legacy browser support you can use [HTML5 Boilerplate v6](https://github.com/h5bp/html5-boilerplate/releases/tag/6.1.0) (IE9/IE10)
+or [HTML5 Boilerplate v5](https://github.com/h5bp/html5-boilerplate/releases/tag/5.3.0) (IE 8). They are no longer actively developed.
 
 
 ## Documentation
@@ -78,13 +78,13 @@ any documentation you want to write about your project.
 
 ## Contributing
 
-Hundreds of developers have helped to make the HTML5 Boilerplate. Anyone is welcome to [contribute](CONTRIBUTING.md),
+Hundreds of developers have helped to make the HTML5 Boilerplate. Anyone is welcome to [contribute](.github/CONTRIBUTING.md),
 however, if you decide to get involved, please take a moment to review
-the [guidelines](CONTRIBUTING.md):
+the [guidelines](.github/CONTRIBUTING.md):
 
-* [Bug reports](CONTRIBUTING.md#bugs)
-* [Feature requests](CONTRIBUTING.md#features)
-* [Pull requests](CONTRIBUTING.md#pull-requests)
+* [Bug reports](.github/CONTRIBUTING.md#bugs)
+* [Feature requests](.github/CONTRIBUTING.md#features)
+* [Pull requests](.github/CONTRIBUTING.md#pull-requests)
 
 
 ## License
